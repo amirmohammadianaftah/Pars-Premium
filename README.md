@@ -1,6 +1,6 @@
 # Pars-Premium
 
-![todo](https://github.com/user-attachments/assets/29f596e6-416c-45b7-8eda-c57b36e41096)
+![ParsPremium](https://github.com/user-attachments/assets/d9821f8a-616e-46a6-b5f4-8e2299ab7277)
 
   - [Demo Project](https://pars-premium-j8y7.vercel.app/)
   - 
